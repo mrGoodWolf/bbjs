@@ -3,7 +3,7 @@ lib/
 myapp
 myownnode
 *.a
-**/capivara/capivara
+**/bbjs/bbjs
 # Logs
 logs
 *.log
